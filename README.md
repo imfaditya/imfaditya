@@ -1,6 +1,5 @@
 ## Hola 🌊👋
 
-🧑‍🎓 I'm a final year student of Informatics Engineering at Pasundan University<br>
 ✨ Interested in website development, espicially front-end<br>
 ⚡ Fun fact, i'm left handed<br>
 
